@@ -1,0 +1,75 @@
+.DVP{
+    display: block;
+   margin-top: 100px;
+   margin-left: 150px;
+    
+
+}
+
+.DVM{
+    width: 1200px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 10px;
+    display: flex;
+    margin-bottom: 30px;
+}
+.IMG{
+    width: 150px;
+    height: 150px;
+}
+.dv1{
+    margin-top: 20px;
+    margin-left: 40px;
+   
+}
+.dv2{
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.dv3{
+    margin-left: 100px;
+    margin-top: 70px;
+}
+.dv4{
+    margin-left: 150px;
+    margin-top: 70px;
+}
+.dv5{
+    margin-left: 150px;
+    margin-top: 85px;
+}
+.dv6{
+    margin-top: 85px;
+    margin-left: 100px;
+}
+.inp{
+    width: 15px;
+    border: none;
+}
+.bt1{
+    background-color: white;
+    border: none;
+}
+.bt2{
+    background-color: white;
+    border: 1px solid black;
+}
+.bt5{
+    background-color: white;
+    border: 1px solid black;
+}
+.dvf{
+    margin-left: 1100px;
+}
+.FF{
+    display: flex;
+}
+.inp1{
+    border: 1px solid black;
+    margin-top: 25px;
+    width: 150px;
+    height: 30px;
+    
+    
+}
